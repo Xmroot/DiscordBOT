@@ -1,10 +1,10 @@
-<h2 align="center">Comandos de Segurança</h2>
+<h2 align="center">Discord Bot</h2>
 
-![alt text](https://github.com/Xmroot/Botsecurity-discord/blob/main/Screenshot_1.png?raw=true)
+![alt text](https://github.com/Xmroot/DiscordBOT/blob/main/Screenshot_22.png?raw=true)
 
 ###
 
-<h3 align="center">Comandos de segurança para utilização em bot de discord! Todos estão configurados, basta adicionar nas pastas de comandos do discord.</h3>
+<h3 align="center">Bot de discord simples configurado para iniciantes que estão iniciando na criação de bots no discord!.</h3>
 
 ###
 
@@ -12,19 +12,27 @@
 
 Abaixo está listado os comandos presentes no repositorio!
 
-- Desmutar Usuarios
-- Mutar Usuarios
+- Anunciar
+- Banir
 - Adicionar Cargos
-- Remover Cargos
-- Limpar Chat
-- Anunciar em forma Embed
+- Informaçoes do bot
+- Informaçoes do server
+- Limpar chat
+- Canal para sugestao
+- Comando de divulgar
+- Comando de ajuda
+- Gerar foto de gato
+- Expulsar alguem
+- Falar em embed
 
 ### Extençoes
 
-- Discord Js
+- Discord
+- Node JS
+- Cmder / Command Promt / Windows Promt
 
 ### Plataformas Suportadas
 
 - Windows 8.1 / 10 / 11
-- Linux 
+- Linux (qualquer distribuiçao)
 - Termux
