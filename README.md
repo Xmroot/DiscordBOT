@@ -36,3 +36,25 @@ Abaixo está listado os comandos presentes no repositorio!
 - Windows 8.1 / 10 / 11
 - Linux (qualquer distribuiçao)
 - Termux
+
+## Instalação do Bot
+
+Para instalar o Bot, siga estas etapas:
+
+Linux (procure a inicial dos pacotes da sua distribuiçao):
+(Pkg funciona tanto para ubuntu,mint,kde e termux)
+
+1. ```sh
+   pkg install git nodejs
+   ```
+2. ```sh
+   git clone https://github.com/Xmroot/DiscordBOT
+   ```
+3. ```sh
+   npm install discordjs
+   ```
+4. configure o seu token e prefixo dentro das pastas config.json e events;
+5. execute esse comando dentro da pasta raiz do bot
+   ```sh
+   node .
+   ```
